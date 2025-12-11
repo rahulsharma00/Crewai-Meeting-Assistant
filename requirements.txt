@@ -1,0 +1,12 @@
+crewai-tools 
+crewai
+dotenv
+exa-py 
+fastapi
+langchain                               
+langchain-community                     
+langchain-core 
+langgraph
+openai
+pydantic                                 
+uvicorn   
