@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Environment Variables
+.env
+*.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+*.pid
+
+# CrewAI / Cache
+crewai_cache/
